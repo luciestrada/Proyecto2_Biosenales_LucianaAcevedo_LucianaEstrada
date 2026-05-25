@@ -1,0 +1,2 @@
+# Proyecto2_Biosenales_LucianaAcevedo_LucianaEstrada
+Proyecto2 de Biosenales, equipo conformado por: LucianaAcevedo_LucianaEstrada
